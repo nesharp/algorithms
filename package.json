@@ -1,0 +1,19 @@
+{
+  "name": "LeetCodeAlgorithms",
+  "version": "1.0.0",
+  "description": " This repository contains my personal solutions to a variety of algorithmic challenges from LeetCode",
+  "main": "index.js",
+  "repository": "https://github.com/nesharp/algorithms.git",
+  "author": "Michael Nesteruk <nesterukmisha27@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
+  }
+}

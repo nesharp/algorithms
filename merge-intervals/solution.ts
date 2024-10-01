@@ -1,13 +1,3 @@
-// const input = [
-//   [1, 3],
-//   [2, 6],
-//   [8, 10],
-//   [15, 18],
-// ];
-const input = [
-  [1, 4],
-  [0, 4],
-];
 const merge = (
   intervals: number[][],
   isSorted: boolean = false
@@ -27,4 +17,3 @@ const merge = (
   }
   return intervals;
 };
-merge(input);
