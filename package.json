@@ -1,5 +1,5 @@
 {
-  "name": "LeetCodeAlgorithms",
+  "name": "leetcodealgorithms",
   "version": "1.0.0",
   "description": " This repository contains my personal solutions to a variety of algorithmic challenges from LeetCode",
   "main": "index.js",
@@ -16,5 +16,9 @@
     "prettier": "^3.4.2",
     "ts-jest": "^29.2.5",
     "typescript": "^5.6.2"
+  },
+  "packageManager": "yarn@1.22.17",
+  "devDependencies": {
+    "@types/node": "^22.13.5"
   }
 }
